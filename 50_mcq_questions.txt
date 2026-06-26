@@ -1,0 +1,352 @@
+**Easy Questions (1-20)**
+01. What is the capital of France?
+A. Berlin
+B. Madrid
+C. Paris
+D. Rome
+**Answer: C**
+
+02. Which planet is known as the Red Planet?
+A. Earth
+B. Venus
+C. Mars
+D. Jupiter
+**Answer: C**
+
+03. What is 2 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+**Answer: B**
+
+04. Who wrote 'Romeo and Juliet'?
+A. Charles Dickens
+B. Jane Austen
+C. William Shakespeare
+D. Mark Twain
+**Answer: C**
+
+05. What color do you get when you mix red and white?
+A. Pink
+B. Orange
+C. Green
+D. Purple
+**Answer: A**
+
+06. Which animal is known as the King of the Jungle?
+A. Elephant
+B. Lion
+C. Tiger
+D. Giraffe
+**Answer: B**
+
+07. What gas do plants absorb from the atmosphere?
+A. Oxygen
+B. Nitrogen
+C. Carbon Dioxide
+D. Helium
+**Answer: C**
+
+08. How many continents are there?
+A. 5
+B. 6
+C. 7
+D. 8
+**Answer: C**
+
+09. Which ocean is the largest?
+A. Atlantic
+B. Indian
+C. Arctic
+D. Pacific
+**Answer: D**
+
+10. How many days are there in a leap year?
+A. 365
+B. 364
+C. 366
+D. 367
+**Answer: C**
+
+11. What is the freezing point of water?
+A. 0°C
+B. 100°C
+C. 32°C
+D. -1°C
+**Answer: A**
+
+12. Which shape has four equal sides?
+A. Rectangle
+B. Square
+C. Triangle
+D. Circle
+**Answer: B**
+
+13. Which fruit is yellow and long?
+A. Apple
+B. Orange
+C. Banana
+D. Grape
+**Answer: C**
+
+14. Which sense do we use to see?
+A. Touch
+B. Smell
+C. Taste
+D. Sight
+**Answer: D**
+
+15. What is the color of the sun?
+A. Blue
+B. Red
+C. Yellow
+D. Green
+**Answer: C**
+
+16. What do bees produce?
+A. Milk
+B. Butter
+C. Honey
+D. Cheese
+**Answer: C**
+
+17. What is the main source of light for Earth?
+A. Moon
+B. Sun
+C. Stars
+D. Fire
+**Answer: B**
+
+18. What is H2O commonly known as?
+A. Oxygen
+B. Water
+C. Hydrogen
+D. Salt
+**Answer: B**
+
+19. What is the opposite of 'hot'?
+A. Warm
+B. Cold
+C. Boiling
+D. Hotter
+**Answer: B**
+
+20. Which number comes after 9?
+A. 10
+B. 11
+C. 12
+D. 8
+**Answer: A**
+
+**Medium Questions (21-40)**
+21. What is the square root of 144?
+A. 10
+B. 11
+C. 12
+D. 13
+**Answer: C**
+
+22. Who invented the telephone?
+A. Albert Einstein
+B. Alexander Graham Bell
+C. Nikola Tesla
+D. Thomas Edison
+**Answer: B**
+
+23. Which element has the chemical symbol 'O'?
+A. Gold
+B. Oxygen
+C. Iron
+D. Silver
+**Answer: B**
+
+24. What is the capital of Canada?
+A. Toronto
+B. Vancouver
+C. Ottawa
+D. Montreal
+**Answer: C**
+
+25. Which blood type is universal donor?
+A. A
+B. B
+C. AB
+D. O-
+**Answer: D**
+
+26. In computing, what does CPU stand for?
+A. Central Processing Unit
+B. Central Peripheral Unit
+C. Central Program Unit
+D. Computer Processing Unit
+**Answer: A**
+
+27. What is the largest organ in the human body?
+A. Heart
+B. Liver
+C. Skin
+D. Lungs
+**Answer: C**
+
+28. What is the capital of Japan?
+A. Kyoto
+B. Osaka
+C. Tokyo
+D. Hiroshima
+**Answer: C**
+
+29. Which planet has a ring system?
+A. Earth
+B. Venus
+C. Saturn
+D. Mars
+**Answer: C**
+
+30. Who discovered penicillin?
+A. Fleming
+B. Newton
+C. Darwin
+D. Pasteur
+**Answer: A**
+
+31. What is the hardest natural substance?
+A. Gold
+B. Iron
+C. Diamond
+D. Quartz
+**Answer: C**
+
+32. Which language has the most native speakers?
+A. English
+B. Spanish
+C. Mandarin
+D. Hindi
+**Answer: C**
+
+33. Who painted the Mona Lisa?
+A. Michelangelo
+B. Van Gogh
+C. Picasso
+D. Leonardo da Vinci
+**Answer: D**
+
+34. Which country is known for the maple leaf?
+A. USA
+B. UK
+C. Canada
+D. Australia
+**Answer: C**
+
+35. What is the process of plants making food called?
+A. Respiration
+B. Digestion
+C. Photosynthesis
+D. Transpiration
+**Answer: C**
+
+36. What is the boiling point of water?
+A. 90°C
+B. 100°C
+C. 80°C
+D. 110°C
+**Answer: B**
+
+37. Who was the first man to walk on the moon?
+A. Buzz Aldrin
+B. Neil Armstrong
+C. Yuri Gagarin
+D. Michael Collins
+**Answer: B**
+
+38. What is the currency of Japan?
+A. Dollar
+B. Yuan
+C. Won
+D. Yen
+**Answer: D**
+
+39. What is the value of Pi (approx)?
+A. 2.14
+B. 3.14
+C. 4.13
+D. 1.41
+**Answer: B**
+
+40. Which vitamin is produced by sunlight?
+A. Vitamin A
+B. Vitamin B
+C. Vitamin C
+D. Vitamin D
+**Answer: D**
+
+**Hard Questions (41-50)**
+41. What is the chemical symbol for gold?
+A. G
+B. Go
+C. Au
+D. Ag
+**Answer: C**
+
+42. Who proposed the laws of motion?
+A. Einstein
+B. Newton
+C. Galileo
+D. Hawking
+**Answer: B**
+
+43. In which year did World War II end?
+A. 1944
+B. 1945
+C. 1946
+D. 1947
+**Answer: B**
+
+44. Which number is a prime number?
+A. 4
+B. 6
+C. 9
+D. 7
+**Answer: D**
+
+45. What is the capital of Iceland?
+A. Oslo
+B. Helsinki
+C. Reykjavik
+D. Copenhagen
+**Answer: C**
+
+46. What is the SI unit of Force?
+A. Pascal
+B. Joule
+C. Watt
+D. Newton
+**Answer: D**
+
+47. Who developed the theory of relativity?
+A. Isaac Newton
+B. Stephen Hawking
+C. Albert Einstein
+D. Niels Bohr
+**Answer: C**
+
+48. What is the derivative of sin(x)?
+A. cos(x)
+B. -sin(x)
+C. -cos(x)
+D. tan(x)
+**Answer: A**
+
+49. What is the powerhouse of the cell?
+A. Nucleus
+B. Ribosome
+C. Mitochondria
+D. Chloroplast
+**Answer: C**
+
+50. What programming language is primarily used for iOS development?
+A. Java
+B. Swift
+C. Kotlin
+D. Python
+**Answer: B**

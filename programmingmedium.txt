@@ -1,0 +1,350 @@
+**Medium Programming Questions (1–50)**
+01. What is the output of `print("3" + "4")` in Python?
+A. 7
+B. 34
+C. Error
+D. 3+4
+**Answer: B**
+
+02. Which of the following is a mutable data type in Python?
+A. tuple
+B. list
+C. str
+D. int
+**Answer: B**
+
+03. What will be the output of `len(set([1,2,2,3]))`?
+A. 2
+B. 3
+C. 4
+D. 1
+**Answer: B**
+
+04. In Java, which keyword is used to inherit a class?
+A. implements
+B. inherit
+C. extends
+D. super
+**Answer: C**
+
+05. What is the default value of a boolean variable in Java?
+A. true
+B. false
+C. null
+D. 0
+**Answer: B**
+
+06. What does the `finally` block do in Python?
+A. Executes only if there's no exception
+B. Executes only if there's an exception
+C. Executes always
+D. Skips execution
+**Answer: C**
+
+07. Which of the following is used to handle exceptions in Python?
+A. try-except
+B. if-else
+C. catch-finally
+D. loop-check
+**Answer: A**
+
+08. What is the result of `bool([])` in Python?
+A. True
+B. False
+C. Error
+D. None
+**Answer: B**
+
+09. Which function is used to read input from users in Java?
+A. input()
+B. System.out.print()
+C. Scanner.next()
+D. Console.input()
+**Answer: C**
+
+10. What is the scope of a local variable in a function?
+A. Global
+B. Class-wide
+C. Only within that function
+D. Module-wide
+**Answer: C**
+
+11. What is a constructor in object-oriented programming?
+A. A type of variable
+B. A method to destroy objects
+C. A method called during object creation
+D. A class name
+**Answer: C**
+
+12. What does `range(5)` return in Python?
+A. [0,1,2,3,4,5]
+B. [1,2,3,4,5]
+C. [0,1,2,3,4]
+D. [0,2,4]
+**Answer: C**
+
+13. Which keyword is used to prevent inheritance in Java?
+A. final
+B. static
+C. const
+D. sealed
+**Answer: A**
+
+14. What is the time complexity of binary search in the worst case?
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(1)
+**Answer: B**
+
+15. Which of the following is not a valid Python data type?
+A. dict
+B. array
+C. set
+D. list
+**Answer: B**
+
+16. Which keyword is used to create a class in Python?
+A. function
+B. def
+C. new
+D. class
+**Answer: D**
+
+17. What is recursion?
+A. A loop structure
+B. A function calling another function
+C. A function calling itself
+D. A variable inside a function
+**Answer: C**
+
+18. Which of these sorting algorithms is not comparison-based?
+A. Merge Sort
+B. Heap Sort
+C. Counting Sort
+D. Quick Sort
+**Answer: C**
+
+19. What does the `pass` statement do in Python?
+A. Skips loop
+B. Exits function
+C. Does nothing
+D. Raises error
+**Answer: C**
+
+20. In Java, what is method overloading?
+A. Same method name with different return types
+B. Same method name with different parameters
+C. Calling the same method repeatedly
+D. A runtime error
+**Answer: B**
+
+21. What is the size of an int in Java?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 1 byte
+**Answer: B**
+
+22. Which function converts a string to an integer in Python?
+A. str()
+B. float()
+C. int()
+D. parse()
+**Answer: C**
+
+23. What will `print(type({}))` show in Python?
+A. <class 'list'>
+B. <class 'dict'>
+C. <class 'set'>
+D. <class 'tuple'>
+**Answer: B**
+
+24. What does IDE stand for?
+A. Integrated Design Environment
+B. Integrated Development Environment
+C. Internal Development Engine
+D. Independent Developer Engine
+**Answer: B**
+
+25. Which keyword is used for inheritance in Python?
+A. inherit
+B. extends
+C. base
+D. class SubClass(SuperClass)
+**Answer: D**
+
+26. What is polymorphism in OOP?
+A. Hiding data
+B. Code reusability
+C. One interface, many implementations
+D. Creating objects
+**Answer: C**
+
+27. Which Python module helps to work with dates?
+A. date
+B. time
+C. datetime
+D. calendar
+**Answer: C**
+
+28. Which data structure uses FIFO order?
+A. Stack
+B. Queue
+C. Tree
+D. Graph
+**Answer: B**
+
+29. Which operator is overloaded by `__add__()` in Python?
+A. +
+B. -
+C. *
+D. /
+**Answer: A**
+
+30. What will `5 & 3` return in Python?
+A. 1
+B. 0
+C. 5
+D. 3
+**Answer: A**
+
+31. What does SQL injection affect?
+A. File system
+B. Network
+C. Database
+D. Browser
+**Answer: C**
+
+32. What is `None` in Python?
+A. A boolean value
+B. A string
+C. A special constant for null values
+D. A number
+**Answer: C**
+
+33. What is the result of `not True and False`?
+A. True
+B. False
+C. Error
+D. None
+**Answer: B**
+
+34. What is the output of `'a' * 3` in Python?
+A. aaa
+B. Error
+C. a3
+D. 3a
+**Answer: A**
+
+35. What is used to convert JSON to Python in the json module?
+A. parse()
+B. convert()
+C. loads()
+D. encode()
+**Answer: C**
+
+36. In OOP, what is encapsulation?
+A. Hiding data
+B. Showing all variables
+C. Using loops
+D. Using inheritance
+**Answer: A**
+
+37. What is a lambda function?
+A. A type of class
+B. A loop
+C. An anonymous function
+D. A keyword
+**Answer: C**
+
+38. What is a tuple?
+A. Mutable list
+B. Unordered collection
+C. Immutable sequence
+D. Key-value pair
+**Answer: C**
+
+39. What is the main advantage of using functions?
+A. Faster execution
+B. Code reuse and organization
+C. Bigger files
+D. Error-prone code
+**Answer: B**
+
+40. Which of the following is used to install packages in Python?
+A. python get
+B. pip
+C. fetch
+D. install
+**Answer: B**
+
+41. What does MVC stand for?
+A. Main-View-Control
+B. Model-View-Controller
+C. Module-Variable-Control
+D. Method-View-Class
+**Answer: B**
+
+42. What is inheritance in OOP?
+A. Function calling
+B. One class acquiring properties of another
+C. A loop
+D. A data structure
+**Answer: B**
+
+43. Which function removes an item from a list by index?
+A. remove()
+B. pop()
+C. delete()
+D. discard()
+**Answer: B**
+
+44. What is a dictionary in Python?
+A. A list of strings
+B. A collection of key-value pairs
+C. A single variable
+D. A data type for booleans
+**Answer: B**
+
+45. What does `len({1: 'a', 2: 'b'})` return?
+A. 2
+B. 1
+C. 0
+D. Error
+**Answer: A**
+
+46. What is a debugger used for?
+A. Speeding code
+B. Writing loops
+C. Finding errors
+D. Editing text
+**Answer: C**
+
+47. What does `open('file.txt', 'r')` do?
+A. Opens file for writing
+B. Opens file for reading
+C. Deletes file
+D. Appends to file
+**Answer: B**
+
+48. Which is not a Java access modifier?
+A. public
+B. private
+C. protected
+D. module
+**Answer: D**
+
+49. What is the output of `'Hello {}'.format('World')`?
+A. Hello format
+B. Hello World
+C. World Hello
+D. Error
+**Answer: B**
+
+50. What will `sorted([3,1,2])` return?
+A. [3,1,2]
+B. [2,1,3]
+C. [1,2,3]
+D. [3,2,1]
+**Answer: C**

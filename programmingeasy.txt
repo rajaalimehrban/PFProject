@@ -1,0 +1,350 @@
+**Easy Programming Questions (1–50)**
+01. What does HTML stand for?
+A. Hyper Trainer Marking Language
+B. Hyper Text Markup Language
+C. Hyper Text Marketing Language
+D. High Text Machine Language
+**Answer: B**
+
+02. Which of the following is a programming language?
+A. HTML
+B. CSS
+C. Python
+D. SQL
+**Answer: C**
+
+03. What symbol is used for comments in Python?
+A. //
+B. <!-- -->
+C. #
+D. /* */
+**Answer: C**
+
+04. Which of the following is not a loop in Python?
+A. for
+B. foreach
+C. while
+D. do-while
+**Answer: D**
+
+05. Which company developed Java?
+A. Microsoft
+B. Sun Microsystems
+C. Apple
+D. IBM
+**Answer: B**
+
+06. What is the correct file extension for Python files?
+A. .pyt
+B. .pt
+C. .py
+D. .python
+**Answer: C**
+
+07. Which keyword is used to define a function in Python?
+A. func
+B. define
+C. def
+D. function
+**Answer: C**
+
+08. What is the output of `print(2 * 3)` in Python?
+A. 5
+B. 6
+C. 8
+D. 9
+**Answer: B**
+
+09. Which tag is used to create a hyperlink in HTML?
+A. <hyper>
+B. <a>
+C. <link>
+D. <href>
+**Answer: B**
+
+10. What does CSS stand for?
+A. Computer Style Sheets
+B. Creative Style Sheets
+C. Cascading Style Sheets
+D. Colorful Style Sheets
+**Answer: C**
+
+11. Which operator is used to assign a value in Python?
+A. =
+B. ==
+C. :=
+D. ->
+**Answer: A**
+
+12. What is the result of `3 == 3` in Python?
+A. True
+B. False
+C. Error
+D. None
+**Answer: A**
+
+13. Which language runs in a browser?
+A. C++
+B. Java
+C. Python
+D. JavaScript
+**Answer: D**
+
+14. Which keyword is used to declare a variable in JavaScript?
+A. var
+B. let
+C. const
+D. All of the above
+**Answer: D**
+
+15. What is a correct syntax to output "Hello World" in Python?
+A. echo("Hello World")
+B. print("Hello World")
+C. Console.Write("Hello World")
+D. System.out.println("Hello World")
+**Answer: B**
+
+16. How do you start a for loop in Python?
+A. for(i=0; i<10; i++)
+B. foreach(i in range(10))
+C. for i in range(10):
+D. loop i in 10
+**Answer: C**
+
+17. Which character is used to start an ID selector in CSS?
+A. .
+B. #
+C. *
+D. &
+**Answer: B**
+
+18. Which HTML tag is used to display a picture?
+A. <pic>
+B. <image>
+C. <src>
+D. <img>
+**Answer: D**
+
+19. Which data type is used to store true/false values in most programming languages?
+A. Integer
+B. Character
+C. Boolean
+D. String
+**Answer: C**
+
+20. What does SQL stand for?
+A. Structured Question Language
+B. Strong Query Language
+C. Structured Query Language
+D. System Query Language
+**Answer: C**
+
+21. Which of these is not a programming language?
+A. Python
+B. Java
+C. Linux
+D. C++
+**Answer: C**
+
+22. What symbol is used to end a statement in Java?
+A. :
+B. ,
+C. ;
+D. .
+**Answer: C**
+
+23. Which one is a valid variable name in Python?
+A. 1name
+B. my-name
+C. my_name
+D. class
+**Answer: C**
+
+24. What is the keyword used for conditional statements in Python?
+A. if
+B. switch
+C. case
+D. when
+**Answer: A**
+
+25. What is the correct way to create a list in Python?
+A. list = (1, 2, 3)
+B. list = [1, 2, 3]
+C. list = {1, 2, 3}
+D. list = <1, 2, 3>
+**Answer: B**
+
+26. What symbol is used for exponentiation in Python?
+A. ^
+B. **
+C. ^^
+D. ^*
+**Answer: B**
+
+27. Which function returns the length of a list in Python?
+A. size()
+B. length()
+C. len()
+D. count()
+**Answer: C**
+
+28. Which is not a type of loop in Java?
+A. while
+B. do-while
+C. repeat
+D. for
+**Answer: C**
+
+29. How do you write a comment in JavaScript?
+A. // comment
+B. # comment
+C. <!-- comment -->
+D. ** comment **
+**Answer: A**
+
+30. What is the output of `len("Hello")` in Python?
+A. 3
+B. 4
+C. 5
+D. 6
+**Answer: C**
+
+31. What does `int()` do in Python?
+A. Creates a floating point number
+B. Converts to string
+C. Converts to integer
+D. Creates a list
+**Answer: C**
+
+32. What will `print(10 // 3)` return in Python?
+A. 3.33
+B. 3
+C. 4
+D. Error
+**Answer: B**
+
+33. What type of language is Python?
+A. Compiled
+B. Interpreted
+C. Machine
+D. Assembly
+**Answer: B**
+
+34. Which is not a primitive data type in Java?
+A. int
+B. float
+C. string
+D. boolean
+**Answer: C**
+
+35. Which function is used to get user input in Python?
+A. gets()
+B. input()
+C. scanf()
+D. cin
+**Answer: B**
+
+36. What does `//` operator do in Python?
+A. Division
+B. Modulo
+C. Floor division
+D. Power
+**Answer: C**
+
+37. What is the output of `3 != 5`?
+A. False
+B. True
+C. None
+D. Error
+**Answer: B**
+
+38. Which of these is a correct conditional statement in Python?
+A. if x = 10
+B. if x == 10:
+C. if (x == 10)
+D. if x = 10:
+**Answer: B**
+
+39. What keyword is used to end a function and return a value?
+A. stop
+B. exit
+C. return
+D. end
+**Answer: C**
+
+40. What is an array?
+A. A single variable
+B. A collection of values
+C. A loop
+D. A function
+**Answer: B**
+
+41. What will `print(2 ** 3)` return?
+A. 6
+B. 8
+C. 9
+D. 5
+**Answer: B**
+
+42. What is used to include external CSS in HTML?
+A. <css src="">
+B. <style link="">
+C. <link rel="stylesheet">
+D. <style href="">
+**Answer: C**
+
+43. How do you declare a constant in JavaScript?
+A. const x;
+B. constant x;
+C. define x;
+D. let x = 0;
+**Answer: A**
+
+44. What does `break` do in a loop?
+A. Restarts the loop
+B. Skips current iteration
+C. Exits the loop
+D. Ends program
+**Answer: C**
+
+45. What is the index of the first element in a list?
+A. 0
+B. 1
+C. -1
+D. 2
+**Answer: A**
+
+46. Which of these is not a JavaScript data type?
+A. number
+B. string
+C. boolean
+D. float
+**Answer: D**
+
+47. What is the correct way to write a function in Python?
+A. function myFunc():
+B. def myFunc():
+C. void myFunc():
+D. fun myFunc():
+**Answer: B**
+
+48. What type of brackets are used in lists?
+A. {}
+B. ()
+C. []
+D. <>
+**Answer: C**
+
+49. How do you check if two values are equal in Python?
+A. =
+B. ==
+C. equals()
+D. eq
+**Answer: B**
+
+50. Which one is a loop structure?
+A. def
+B. class
+C. for
+D. if
+**Answer: C**

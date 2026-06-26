@@ -1,0 +1,349 @@
+01. What is 12 × 3?
+A. 36
+B. 30
+C. 33
+D. 39
+**Answer: A**
+
+02. What is 45 ÷ 5?
+A. 8
+B. 9
+C. 10
+D. 11
+**Answer: B**
+
+03. What is the square of 9?
+A. 18
+B. 72
+C. 81
+D. 90
+**Answer: C**
+
+04. What is 7²?
+A. 42
+B. 48
+C. 49
+D. 56
+**Answer: C**
+
+05. What is the value of √64?
+A. 6
+B. 7
+C. 8
+D. 9
+**Answer: C**
+
+06. What is 100 ÷ 4?
+A. 20
+B. 25
+C. 30
+D. 35
+**Answer: B**
+
+07. What is 15% of 200?
+A. 25
+B. 30
+C. 35
+D. 40
+**Answer: B**
+
+08. What is 11 × 6?
+A. 66
+B. 60
+C. 72
+D. 76
+**Answer: A**
+
+09. What is the perimeter of a square with side 9?
+A. 36
+B. 27
+C. 18
+D. 81
+**Answer: A**
+
+10. What is 4³?
+A. 12
+B. 16
+C. 64
+D. 81
+**Answer: C**
+
+11. What is 18 + 27?
+A. 44
+B. 45
+C. 46
+D. 47
+**Answer: B**
+
+12. What is 72 ÷ 8?
+A. 7
+B. 8
+C. 9
+D. 10
+**Answer: C**
+
+13. What is the area of a rectangle with length 8 and width 5?
+A. 30
+B. 35
+C. 40
+D. 45
+**Answer: C**
+
+14. What is 14²?
+A. 176
+B. 196
+C. 206
+D. 216
+**Answer: B**
+
+15. What is 5 × 16?
+A. 70
+B. 75
+C. 80
+D. 85
+**Answer: C**
+
+16. What is the cube of 3?
+A. 9
+B. 18
+C. 27
+D. 36
+**Answer: C**
+
+17. What is 150 ÷ 6?
+A. 20
+B. 22
+C. 24
+D. 25
+**Answer: D**
+
+18. What is the sum of the first 10 natural numbers?
+A. 45
+B. 50
+C. 55
+D. 60
+**Answer: C**
+
+19. What is 13 × 4?
+A. 48
+B. 50
+C. 52
+D. 54
+**Answer: C**
+
+20. What is 81 ÷ 9?
+A. 8
+B. 9
+C. 10
+D. 11
+**Answer: B**
+
+21. What is the value of (5 + 3) × 2?
+A. 14
+B. 15
+C. 16
+D. 18
+**Answer: C**
+
+22. What is the value of 2³ + 4²?
+A. 20
+B. 24
+C. 25
+D. 26
+**Answer: D**
+
+23. What is 3/4 of 32?
+A. 20
+B. 22
+C. 24
+D. 26
+**Answer: C**
+
+24. What is the area of a triangle with base 10 and height 6?
+A. 25
+B. 30
+C. 35
+D. 40
+**Answer: B**
+
+25. What is the LCM of 6 and 8?
+A. 12
+B. 24
+C. 48
+D. 36
+**Answer: B**
+
+26. What is the HCF of 18 and 27?
+A. 3
+B. 6
+C. 9
+D. 12
+**Answer: C**
+
+27. What is 2/5 of 100?
+A. 20
+B. 30
+C. 40
+D. 50
+**Answer: C**
+
+28. What is the value of 8 × (2 + 3)?
+A. 32
+B. 35
+C. 40
+D. 45
+**Answer: C**
+
+29. What is 144 ÷ 12?
+A. 10
+B. 11
+C. 12
+D. 13
+**Answer: C**
+
+30. What is the square root of 121?
+A. 9
+B. 10
+C. 11
+D. 12
+**Answer: C**
+
+31. What is 19 + 26?
+A. 44
+B. 45
+C. 46
+D. 47
+**Answer: D**
+
+32. What is the cube of 4?
+A. 64
+B. 60
+C. 72
+D. 48
+**Answer: A**
+
+33. What is the perimeter of a rectangle with length 7 and width 5?
+A. 22
+B. 24
+C. 26
+D. 28
+**Answer: C**
+
+34. What is 9²?
+A. 72
+B. 81
+C. 90
+D. 99
+**Answer: B**
+
+35. What is 5 × 15?
+A. 65
+B. 70
+C. 75
+D. 80
+**Answer: C**
+
+36. What is 64 ÷ 8?
+A. 6
+B. 7
+C. 8
+D. 9
+**Answer: C**
+
+37. What is the area of a square with side 11?
+A. 110
+B. 121
+C. 132
+D. 144
+**Answer: B**
+
+38. What is 25% of 200?
+A. 40
+B. 45
+C. 50
+D. 55
+**Answer: C**
+
+39. What is the sum of the angles in a triangle?
+A. 90°
+B. 180°
+C. 270°
+D. 360°
+**Answer: B**
+
+40. What is 6 × 9?
+A. 54
+B. 56
+C. 58
+D. 60
+**Answer: A**
+
+41. What is 72 ÷ 6?
+A. 10
+B. 11
+C. 12
+D. 13
+**Answer: C**
+
+42. What is 3 × (4 + 5)?
+A. 24
+B. 25
+C. 26
+D. 27
+**Answer: D**
+
+43. What is the next prime number after 7?
+A. 9
+B. 10
+C. 11
+D. 12
+**Answer: C**
+
+44. What is the value of 2² + 3²?
+A. 12
+B. 13
+C. 14
+D. 15
+**Answer: B**
+
+45. What is 10²?
+A. 100
+B. 110
+C. 120
+D. 130
+**Answer: A**
+
+46. What is the area of a circle with radius 7? (Use π ≈ 22/7)
+A. 132
+B. 144
+C. 154
+D. 168
+**Answer: C**
+
+47. What is the value of (9 × 3) - 6?
+A. 21
+B. 23
+C. 25
+D. 27
+**Answer: A**
+
+48. What is the sum of even numbers from 2 to 10?
+A. 28
+B. 30
+C. 32
+D. 34
+**Answer: B**
+
+49. What is the smallest 2-digit prime number?
+A. 10
+B. 11
+C. 12
+D. 13
+**Answer: B**
+
+50. What is 7 × 8?
+A. 54
+B. 56
+C. 58
+D. 60
+**Answer: B**

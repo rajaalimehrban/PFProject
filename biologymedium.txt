@@ -1,0 +1,349 @@
+01. What is the function of ribosomes in a cell?
+A. Produce energy
+B. Synthesize proteins
+C. Store nutrients
+D. Control cell activities
+**Answer: B**
+
+02. Which part of the brain controls balance?
+A. Cerebrum
+B. Cerebellum
+C. Medulla
+D. Spinal cord
+**Answer: B**
+
+03. What is the role of red blood cells?
+A. Fight infections
+B. Digest food
+C. Carry oxygen
+D. Produce enzymes
+**Answer: C**
+
+04. Which part of the plant transports water?
+A. Phloem
+B. Xylem
+C. Chloroplast
+D. Cambium
+**Answer: B**
+
+05. Which organ secretes insulin?
+A. Liver
+B. Pancreas
+C. Kidney
+D. Stomach
+**Answer: B**
+
+06. What is the primary function of white blood cells?
+A. Transport oxygen
+B. Fight infection
+C. Form clots
+D. Produce hormones
+**Answer: B**
+
+07. What is the name of the process by which cells divide?
+A. Photosynthesis
+B. Respiration
+C. Mitosis
+D. Fermentation
+**Answer: C**
+
+08. Which part of the eye controls the amount of light entering?
+A. Retina
+B. Lens
+C. Cornea
+D. Iris
+**Answer: D**
+
+09. What is the function of chlorophyll?
+A. Absorb sunlight
+B. Transport food
+C. Anchor the plant
+D. Store water
+**Answer: A**
+
+10. Which organ is responsible for filtering blood?
+A. Heart
+B. Liver
+C. Lungs
+D. Kidney
+**Answer: D**
+
+11. Which macromolecule contains genetic information?
+A. Carbohydrate
+B. Lipid
+C. Protein
+D. DNA
+**Answer: D**
+
+12. Which part of the neuron receives signals?
+A. Axon
+B. Dendrite
+C. Synapse
+D. Myelin
+**Answer: B**
+
+13. What is the smallest blood vessel in the body?
+A. Artery
+B. Vein
+C. Capillary
+D. Venule
+**Answer: C**
+
+14. What is the name of the pigment in red blood cells?
+A. Melanin
+B. Keratin
+C. Hemoglobin
+D. Myosin
+**Answer: C**
+
+15. What is the function of the large intestine?
+A. Digest food
+B. Absorb water
+C. Store bile
+D. Make insulin
+**Answer: B**
+
+16. Which kingdom includes mushrooms?
+A. Plantae
+B. Animalia
+C. Fungi
+D. Protista
+**Answer: C**
+
+17. Which part of a flower produces pollen?
+A. Pistil
+B. Ovary
+C. Anther
+D. Sepal
+**Answer: C**
+
+18. What is the function of mitochondria?
+A. Protein synthesis
+B. Energy production
+C. Water storage
+D. DNA replication
+**Answer: B**
+
+19. What type of reproduction involves only one parent?
+A. Asexual
+B. Sexual
+C. Binary
+D. Budding
+**Answer: A**
+
+20. What is the main function of enzymes?
+A. Kill bacteria
+B. Speed up reactions
+C. Store information
+D. Provide energy
+**Answer: B**
+
+21. Which part of the brain controls involuntary actions?
+A. Cerebrum
+B. Cerebellum
+C. Medulla oblongata
+D. Hypothalamus
+**Answer: C**
+
+22. What is the function of bile?
+A. Digest protein
+B. Break down fat
+C. Absorb glucose
+D. Transport oxygen
+**Answer: B**
+
+23. What organ connects the mother and fetus?
+A. Uterus
+B. Fallopian tube
+C. Placenta
+D. Ovary
+**Answer: C**
+
+24. What is the process of making food by plants called?
+A. Germination
+B. Photosynthesis
+C. Transpiration
+D. Fermentation
+**Answer: B**
+
+25. What is the name of the process where oxygen is used to produce energy?
+A. Photosynthesis
+B. Digestion
+C. Cellular respiration
+D. Transpiration
+**Answer: C**
+
+26. What part of the body produces urine?
+A. Bladder
+B. Liver
+C. Kidney
+D. Pancreas
+**Answer: C**
+
+27. What is the function of the diaphragm?
+A. Digest food
+B. Filter blood
+C. Help with breathing
+D. Pump blood
+**Answer: C**
+
+28. Which structure controls the movement of substances in and out of a cell?
+A. Nucleus
+B. Cytoplasm
+C. Cell wall
+D. Cell membrane
+**Answer: D**
+
+29. What is the basic unit of heredity?
+A. DNA
+B. Chromosome
+C. Gene
+D. Protein
+**Answer: C**
+
+30. What is the liquid part of blood called?
+A. Plasma
+B. Hemoglobin
+C. Platelet
+D. Enzyme
+**Answer: A**
+
+31. Which part of the brain helps with memory?
+A. Cerebellum
+B. Cerebrum
+C. Brainstem
+D. Hypothalamus
+**Answer: B**
+
+32. What are the tiny air sacs in the lungs called?
+A. Bronchi
+B. Alveoli
+C. Trachea
+D. Capillaries
+**Answer: B**
+
+33. What helps prevent blood loss from a cut?
+A. Red blood cells
+B. White blood cells
+C. Platelets
+D. Plasma
+**Answer: C**
+
+34. What organ system includes the skin?
+A. Circulatory system
+B. Integumentary system
+C. Nervous system
+D. Excretory system
+**Answer: B**
+
+35. Which process removes carbon dioxide from the body?
+A. Digestion
+B. Respiration
+C. Circulation
+D. Exhalation
+**Answer: D**
+
+36. Which of the following is a unicellular organism?
+A. Amoeba
+B. Mushroom
+C. Ant
+D. Leaf
+**Answer: A**
+
+37. What is the tube that carries urine from the kidney to the bladder?
+A. Urethra
+B. Ureter
+C. Artery
+D. Vein
+**Answer: B**
+
+38. Which part of the eye focuses light?
+A. Iris
+B. Pupil
+C. Lens
+D. Retina
+**Answer: C**
+
+39. What organ removes toxins from the blood?
+A. Heart
+B. Lungs
+C. Liver
+D. Intestines
+**Answer: C**
+
+40. Which vitamin helps in blood clotting?
+A. Vitamin A
+B. Vitamin B
+C. Vitamin K
+D. Vitamin D
+**Answer: C**
+
+41. What is the name for animals that give birth to live young?
+A. Oviparous
+B. Viviparous
+C. Herbivores
+D. Carnivores
+**Answer: B**
+
+42. What type of joint is found in the shoulder?
+A. Hinge joint
+B. Pivot joint
+C. Ball and socket joint
+D. Gliding joint
+**Answer: C**
+
+43. What is the function of the root hairs?
+A. Photosynthesis
+B. Reproduction
+C. Water absorption
+D. Transport of sugars
+**Answer: C**
+
+44. What is the structural and functional unit of the kidney?
+A. Nephron
+B. Alveolus
+C. Bronchiole
+D. Neuron
+**Answer: A**
+
+45. What is the function of the pancreas?
+A. Produce insulin
+B. Filter blood
+C. Store bile
+D. Produce red blood cells
+**Answer: A**
+
+46. What is the main organ of the circulatory system?
+A. Brain
+B. Lungs
+C. Heart
+D. Liver
+**Answer: C**
+
+47. What is the main function of sweat glands?
+A. Produce oil
+B. Excrete waste
+C. Digest protein
+D. Produce heat
+**Answer: B**
+
+48. What connects muscles to bones?
+A. Ligaments
+B. Cartilage
+C. Tendons
+D. Joints
+**Answer: C**
+
+49. Which part of the plant makes seeds?
+A. Leaf
+B. Stem
+C. Root
+D. Flower
+**Answer: D**
+
+50. What is the function of the spinal cord?
+A. Pump blood
+B. Control hormones
+C. Carry nerve signals
+D. Filter toxins
+**Answer: C**

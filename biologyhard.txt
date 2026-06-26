@@ -1,0 +1,349 @@
+01. What is the process by which DNA is copied into RNA?
+A. Translation
+B. Transcription
+C. Replication
+D. Mutation
+**Answer: B**
+
+02. Which organelle is responsible for packaging proteins?
+A. Ribosome
+B. Mitochondria
+C. Golgi apparatus
+D. Nucleus
+**Answer: C**
+
+03. What is the end product of aerobic respiration?
+A. Lactic acid
+B. Ethanol
+C. Carbon dioxide and water
+D. Oxygen and glucose
+**Answer: C**
+
+04. What type of RNA carries amino acids to ribosomes?
+A. rRNA
+B. mRNA
+C. tRNA
+D. cRNA
+**Answer: C**
+
+05. What is the main nitrogenous waste in humans?
+A. Ammonia
+B. Uric acid
+C. Urea
+D. Nitrate
+**Answer: C**
+
+06. What enzyme unwinds DNA during replication?
+A. Ligase
+B. Polymerase
+C. Helicase
+D. Transcriptase
+**Answer: C**
+
+07. What is the term for the programmed death of a cell?
+A. Necrosis
+B. Mutation
+C. Apoptosis
+D. Autolysis
+**Answer: C**
+
+08. What part of the brain controls homeostasis?
+A. Cerebellum
+B. Thalamus
+C. Hypothalamus
+D. Medulla
+**Answer: C**
+
+09. What is the primary pigment involved in photosynthesis?
+A. Carotene
+B. Xanthophyll
+C. Chlorophyll
+D. Anthocyanin
+**Answer: C**
+
+10. Which molecule contains the genetic code?
+A. mRNA
+B. Protein
+C. DNA
+D. Lipid
+**Answer: C**
+
+11. Which hormone regulates blood sugar levels?
+A. Adrenaline
+B. Insulin
+C. Thyroxine
+D. Estrogen
+**Answer: B**
+
+12. Which process describes cell division in gametes?
+A. Mitosis
+B. Meiosis
+C. Fission
+D. Budding
+**Answer: B**
+
+13. What do we call a segment of DNA that codes for a protein?
+A. Chromosome
+B. Codon
+C. Gene
+D. Genome
+**Answer: C**
+
+14. What type of bond holds base pairs together in DNA?
+A. Ionic
+B. Covalent
+C. Hydrogen
+D. Metallic
+**Answer: C**
+
+15. Which structure helps bacteria move?
+A. Flagella
+B. Cilia
+C. Pili
+D. Capsule
+**Answer: A**
+
+16. What is the main function of lysosomes?
+A. Photosynthesis
+B. Protein synthesis
+C. Digestion of cell waste
+D. Genetic storage
+**Answer: C**
+
+17. Which phase of mitosis involves chromosome alignment?
+A. Prophase
+B. Metaphase
+C. Anaphase
+D. Telophase
+**Answer: B**
+
+18. Which blood type is known as the universal donor?
+A. A
+B. B
+C. AB
+D. O
+**Answer: D**
+
+19. What is the function of myelin in neurons?
+A. Store neurotransmitters
+B. Speed up impulse transmission
+C. Filter impulses
+D. Detect stimuli
+**Answer: B**
+
+20. Which organ produces bile?
+A. Pancreas
+B. Stomach
+C. Liver
+D. Intestine
+**Answer: C**
+
+21. What is the name of the theory that mitochondria were once free-living bacteria?
+A. Evolutionary theory
+B. Endosymbiotic theory
+C. Biogenesis theory
+D. Abiogenesis theory
+**Answer: B**
+
+22. What is the function of stomata?
+A. Transport water
+B. Photosynthesis
+C. Gas exchange
+D. Nutrient storage
+**Answer: C**
+
+23. What term describes organisms with both male and female reproductive organs?
+A. Androgynous
+B. Hermaphroditic
+C. Diploid
+D. Gametic
+**Answer: B**
+
+24. What is a dihybrid cross?
+A. One trait cross
+B. Cross involving two traits
+C. Mutation mapping
+D. Genetic linkage study
+**Answer: B**
+
+25. What is the longest phase of the cell cycle?
+A. G1
+B. G2
+C. M
+D. S
+**Answer: A**
+
+26. What organ filters blood in insects?
+A. Kidney
+B. Nephridia
+C. Malpighian tubules
+D. Alveoli
+**Answer: C**
+
+27. What is the function of phloem in plants?
+A. Transport water
+B. Absorb sunlight
+C. Transport sugars
+D. Provide structure
+**Answer: C**
+
+28. Which protein carries oxygen in muscles?
+A. Hemoglobin
+B. Myoglobin
+C. Actin
+D. Tubulin
+**Answer: B**
+
+29. Which vitamin is synthesized in the skin by sunlight?
+A. Vitamin A
+B. Vitamin C
+C. Vitamin D
+D. Vitamin K
+**Answer: C**
+
+30. What do we call chromosomes that determine gender?
+A. Autosomes
+B. Gametes
+C. Sex chromosomes
+D. Zygotes
+**Answer: C**
+
+31. Which gland is called the master gland?
+A. Pineal
+B. Pituitary
+C. Thyroid
+D. Adrenal
+**Answer: B**
+
+32. What is a mutation?
+A. Cell division
+B. Change in DNA sequence
+C. Growth of tissue
+D. Protein synthesis
+**Answer: B**
+
+33. What are the structural units of proteins?
+A. Sugars
+B. Nucleotides
+C. Amino acids
+D. Fatty acids
+**Answer: C**
+
+34. What is the function of guard cells?
+A. Store food
+B. Open and close stomata
+C. Absorb water
+D. Defend against insects
+**Answer: B**
+
+35. What is a plasmid?
+A. Bacterial chromosome
+B. Circular DNA in bacteria
+C. Ribosomal protein
+D. Viral enzyme
+**Answer: B**
+
+36. What is the diploid number of chromosomes in humans?
+A. 23
+B. 46
+C. 92
+D. 44
+**Answer: B**
+
+37. Which blood vessels carry blood away from the heart?
+A. Veins
+B. Arteries
+C. Capillaries
+D. Venules
+**Answer: B**
+
+38. What organelle is found in plant cells but not in animal cells?
+A. Nucleus
+B. Mitochondria
+C. Chloroplast
+D. Golgi body
+**Answer: C**
+
+39. What is the role of antigens?
+A. Kill bacteria
+B. Stimulate immune response
+C. Transport oxygen
+D. Digest proteins
+**Answer: B**
+
+40. What is the primary function of the endoplasmic reticulum?
+A. Lipid and protein synthesis
+B. DNA replication
+C. Energy production
+D. Cell division
+**Answer: A**
+
+41. Which part of the brain controls body temperature?
+A. Cerebrum
+B. Medulla
+C. Hypothalamus
+D. Pons
+**Answer: C**
+
+42. What is a genotype?
+A. Physical appearance
+B. Genetic makeup
+C. Body size
+D. Learned behavior
+**Answer: B**
+
+43. What is genetic drift?
+A. Evolution by natural selection
+B. Change in gene frequency due to chance
+C. Mutation process
+D. Speciation by isolation
+**Answer: B**
+
+44. What is an allele?
+A. Type of cell
+B. Alternate form of a gene
+C. Chromosome mutation
+D. Genetic disease
+**Answer: B**
+
+45. What is the primary function of the pancreas?
+A. Filter blood
+B. Produce enzymes and insulin
+C. Pump blood
+D. Absorb nutrients
+**Answer: B**
+
+46. Which hormone regulates sleep cycles?
+A. Insulin
+B. Melatonin
+C. Estrogen
+D. Cortisol
+**Answer: B**
+
+47. What is a zygote?
+A. Reproductive organ
+B. Fertilized egg
+C. Unfertilized ovum
+D. Chromosome pair
+**Answer: B**
+
+48. What are homologous chromosomes?
+A. Identical chromosomes
+B. Different chromosomes
+C. Chromosomes with same genes
+D. Mitochondrial chromosomes
+**Answer: C**
+
+49. Which disease is caused by lack of insulin?
+A. Asthma
+B. Diabetes
+C. Anemia
+D. Cancer
+**Answer: B**
+
+50. What is the function of tRNA in translation?
+A. Carry DNA to ribosome
+B. Synthesize proteins
+C. Deliver amino acids to ribosome
+D. Fold proteins
+**Answer: C**

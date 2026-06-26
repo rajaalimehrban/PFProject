@@ -1,0 +1,349 @@
+01. What is the value of √225?
+A. 13
+B. 14
+C. 15
+D. 16
+**Answer: C**
+
+02. What is the cube root of 512?
+A. 6
+B. 7
+C. 8
+D. 9
+**Answer: C**
+
+03. What is 17²?
+A. 289
+B. 287
+C. 278
+D. 298
+**Answer: A**
+
+04. What is the value of 3³ + 4²?
+A. 27
+B. 43
+C. 49
+D. 55
+**Answer: B**
+
+05. What is the LCM of 12, 15 and 20?
+A. 60
+B. 120
+C. 240
+D. 300
+**Answer: B**
+
+06. What is the HCF of 84 and 108?
+A. 6
+B. 12
+C. 18
+D. 24
+**Answer: C**
+
+07. What is the sum of the first 20 odd numbers?
+A. 400
+B. 420
+C. 440
+D. 460
+**Answer: A**
+
+08. If x² = 49, what is x?
+A. 6
+B. ±7
+C. 7
+D. ±6
+**Answer: B**
+
+09. What is 2⁵ × 2³?
+A. 2⁸
+B. 2¹⁵
+C. 2¹⁰
+D. 2⁷
+**Answer: D**
+
+10. What is (3/5) of (25/6)?
+A. 3
+B. 2.5
+C. 2
+D. 2.1
+**Answer: C**
+
+11. If a triangle has angles 40° and 70°, what is the third angle?
+A. 60°
+B. 70°
+C. 80°
+D. 90°
+**Answer: C**
+
+12. What is the area of a circle with diameter 14? (π ≈ 3.14)
+A. 76.96
+B. 154
+C. 148.96
+D. 132.76
+**Answer: B**
+
+13. What is the sum of the interior angles of a pentagon?
+A. 360°
+B. 540°
+C. 720°
+D. 900°
+**Answer: B**
+
+14. What is the value of (2² + 3² + 4²)?
+A. 28
+B. 29
+C. 30
+D. 31
+**Answer: C**
+
+15. What is the slope of a line passing through (2,3) and (6,11)?
+A. 1
+B. 2
+C. 3
+D. 4
+**Answer: B**
+
+16. What is the value of sin(30°)?
+A. 0.5
+B. 0.707
+C. 1
+D. √3/2
+**Answer: A**
+
+17. What is the factorial of 6?
+A. 720
+B. 600
+C. 540
+D. 840
+**Answer: A**
+
+18. What is the discriminant of the equation x² - 4x + 4 = 0?
+A. 0
+B. 4
+C. 8
+D. 16
+**Answer: A**
+
+19. If log₁₀x = 2, then x =
+A. 10
+B. 20
+C. 100
+D. 1000
+**Answer: C**
+
+20. What is 7C3 (combinations)?
+A. 21
+B. 35
+C. 42
+D. 56
+**Answer: B**
+
+21. What is the median of [3, 5, 7, 9, 11]?
+A. 5
+B. 7
+C. 6
+D. 9
+**Answer: B**
+
+22. What is the mode of [2, 3, 3, 4, 5]?
+A. 2
+B. 3
+C. 4
+D. No mode
+**Answer: B**
+
+23. What is the result of (4 + 3 × 2)²?
+A. 100
+B. 121
+C. 144
+D. 169
+**Answer: D**
+
+24. If 2x + 3 = 15, what is x?
+A. 5
+B. 6
+C. 7
+D. 8
+**Answer: A**
+
+25. If a = 2, b = 3, what is a³ + b²?
+A. 13
+B. 17
+C. 19
+D. 20
+**Answer: B**
+
+26. What is the volume of a cube with side 6 cm?
+A. 216 cm³
+B. 144 cm³
+C. 128 cm³
+D. 256 cm³
+**Answer: A**
+
+27. What is the surface area of a sphere with radius 7 cm? (π ≈ 3.14)
+A. 615.44
+B. 625.12
+C. 646.32
+D. 684.4
+**Answer: A**
+
+28. What is the next number in the pattern: 2, 4, 8, 16, ___?
+A. 18
+B. 20
+C. 24
+D. 32
+**Answer: D**
+
+29. If the base of a triangle is 10 and area is 25, what is the height?
+A. 4
+B. 5
+C. 6
+D. 7
+**Answer: B**
+
+30. Solve: x² - 5x + 6 = 0
+A. x = 2 or 3
+B. x = 1 or 6
+C. x = 3 or 4
+D. x = 0 or 6
+**Answer: A**
+
+31. What is the 5th prime number?
+A. 9
+B. 11
+C. 13
+D. 17
+**Answer: B**
+
+32. What is the 10th Fibonacci number?
+A. 34
+B. 55
+C. 89
+D. 144
+**Answer: B**
+
+33. What is the angle of each interior angle in a regular hexagon?
+A. 120°
+B. 130°
+C. 140°
+D. 150°
+**Answer: A**
+
+34. What is 10% of 250?
+A. 15
+B. 20
+C. 25
+D. 30
+**Answer: C**
+
+35. Convert 0.75 to a fraction.
+A. 1/3
+B. 3/4
+C. 2/5
+D. 5/6
+**Answer: B**
+
+36. Solve: 3x - 2 = 10
+A. 3
+B. 4
+C. 5
+D. 6
+**Answer: C**
+
+37. What is 4.5 × 2.2?
+A. 9.5
+B. 9.9
+C. 10.2
+D. 10.8
+**Answer: B**
+
+38. What is 0.2 of 500?
+A. 10
+B. 50
+C. 100
+D. 200
+**Answer: C**
+
+39. How many degrees in a straight angle?
+A. 90°
+B. 180°
+C. 270°
+D. 360°
+**Answer: B**
+
+40. What is √144 + √81?
+A. 21
+B. 22
+C. 23
+D. 24
+**Answer: A**
+
+41. What is the cube of 9?
+A. 729
+B. 700
+C. 710
+D. 750
+**Answer: A**
+
+42. What is the smallest 3-digit number divisible by 7?
+A. 100
+B. 105
+C. 112
+D. 119
+**Answer: B**
+
+43. What is the reciprocal of 3/4?
+A. 3/4
+B. 1/3
+C. 4/3
+D. 1/4
+**Answer: C**
+
+44. What is the average of 4, 8, 12, 16?
+A. 9
+B. 10
+C. 11
+D. 12
+**Answer: C**
+
+45. If 6x = 72, what is x?
+A. 10
+B. 11
+C. 12
+D. 13
+**Answer: C**
+
+46. What is the perimeter of a square with area 100?
+A. 20
+B. 30
+C. 40
+D. 50
+**Answer: C**
+
+47. What is 9/3 + 6/2?
+A. 5
+B. 6
+C. 7
+D. 8
+**Answer: C**
+
+48. What is the sum of the exterior angles of any polygon?
+A. 180°
+B. 270°
+C. 360°
+D. Depends on sides
+**Answer: C**
+
+49. Convert 3.25 to a fraction.
+A. 13/4
+B. 7/2
+C. 5/2
+D. 15/4
+**Answer: A**
+
+50. What is the square root of 625?
+A. 20
+B. 21
+C. 24
+D. 25
+**Answer: D**

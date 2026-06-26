@@ -1,0 +1,1400 @@
+Q1 (Easy, Topic: Technology): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q2 (Medium, Topic: Geography): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q3 (Difficult, Topic: History): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q4 (Medium, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q5 (Difficult, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q6 (Difficult, Topic: Geography): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q7 (Difficult, Topic: History): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q8 (Medium, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q9 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q10 (Medium, Topic: History): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q11 (Difficult, Topic: History): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q12 (Difficult, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q13 (Medium, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q14 (Medium, Topic: History): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q15 (Difficult, Topic: Literature): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q16 (Easy, Topic: Literature): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q17 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q18 (Easy, Topic: History): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q19 (Medium, Topic: Math): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q20 (Easy, Topic: Technology): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q21 (Difficult, Topic: History): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q22 (Difficult, Topic: Math): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q23 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q24 (Easy, Topic: Technology): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q25 (Medium, Topic: History): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q26 (Difficult, Topic: History): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q27 (Easy, Topic: Math): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q28 (Difficult, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q29 (Difficult, Topic: Technology): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q30 (Difficult, Topic: History): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q31 (Medium, Topic: Literature): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q32 (Difficult, Topic: Math): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q33 (Difficult, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q34 (Difficult, Topic: Literature): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q35 (Difficult, Topic: Geography): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q36 (Difficult, Topic: Science): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q37 (Medium, Topic: Geography): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q38 (Medium, Topic: Literature): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q39 (Difficult, Topic: Math): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q40 (Easy, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q41 (Easy, Topic: Technology): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q42 (Easy, Topic: Geography): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q43 (Difficult, Topic: Math): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q44 (Medium, Topic: Technology): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q45 (Medium, Topic: Math): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q46 (Medium, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q47 (Difficult, Topic: Literature): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q48 (Medium, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q49 (Difficult, Topic: Literature): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q50 (Medium, Topic: Science): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q51 (Medium, Topic: Science): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q52 (Difficult, Topic: Math): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q53 (Difficult, Topic: Technology): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q54 (Difficult, Topic: Technology): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q55 (Easy, Topic: Geography): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q56 (Difficult, Topic: Math): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q57 (Easy, Topic: Science): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q58 (Easy, Topic: Science): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q59 (Difficult, Topic: Math): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q60 (Medium, Topic: Technology): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q61 (Difficult, Topic: Literature): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q62 (Difficult, Topic: Science): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q63 (Difficult, Topic: Technology): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q64 (Medium, Topic: Science): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q65 (Medium, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q66 (Easy, Topic: Literature): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q67 (Difficult, Topic: Technology): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q68 (Difficult, Topic: Math): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q69 (Easy, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q70 (Difficult, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q71 (Easy, Topic: Science): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q72 (Difficult, Topic: Technology): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q73 (Medium, Topic: Technology): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q74 (Easy, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q75 (Easy, Topic: Geography): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q76 (Difficult, Topic: Science): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q77 (Easy, Topic: Geography): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q78 (Difficult, Topic: Geography): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q79 (Difficult, Topic: Math): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q80 (Medium, Topic: Geography): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q81 (Easy, Topic: Technology): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q82 (Easy, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q83 (Medium, Topic: Technology): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q84 (Difficult, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q85 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q86 (Difficult, Topic: Geography): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q87 (Difficult, Topic: Math): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q88 (Medium, Topic: Science): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q89 (Easy, Topic: History): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q90 (Medium, Topic: Literature): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q91 (Easy, Topic: Technology): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q92 (Easy, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q93 (Medium, Topic: Geography): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q94 (Easy, Topic: Technology): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q95 (Medium, Topic: Math): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q96 (Easy, Topic: Technology): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q97 (Medium, Topic: Science): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q98 (Easy, Topic: Science): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q99 (Medium, Topic: History): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q100 (Difficult, Topic: Science): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q101 (Medium, Topic: Literature): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q102 (Difficult, Topic: Technology): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q103 (Difficult, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q104 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q105 (Easy, Topic: Geography): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q106 (Medium, Topic: Science): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q107 (Difficult, Topic: Literature): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q108 (Difficult, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q109 (Easy, Topic: Geography): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q110 (Easy, Topic: Geography): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q111 (Easy, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q112 (Difficult, Topic: Literature): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q113 (Easy, Topic: Math): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q114 (Difficult, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q115 (Difficult, Topic: Literature): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q116 (Easy, Topic: Geography): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q117 (Easy, Topic: Geography): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q118 (Easy, Topic: History): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q119 (Easy, Topic: Technology): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q120 (Easy, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q121 (Medium, Topic: Geography): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q122 (Difficult, Topic: History): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q123 (Easy, Topic: Technology): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q124 (Difficult, Topic: Math): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q125 (Difficult, Topic: Literature): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q126 (Difficult, Topic: History): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q127 (Easy, Topic: Literature): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q128 (Difficult, Topic: Math): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q129 (Difficult, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q130 (Medium, Topic: Math): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q131 (Difficult, Topic: Geography): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q132 (Difficult, Topic: Geography): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q133 (Easy, Topic: Science): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q134 (Medium, Topic: Geography): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q135 (Medium, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q136 (Medium, Topic: Literature): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q137 (Medium, Topic: Technology): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q138 (Easy, Topic: Geography): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q139 (Difficult, Topic: Science): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q140 (Difficult, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q141 (Difficult, Topic: Geography): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q142 (Difficult, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q143 (Easy, Topic: History): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q144 (Medium, Topic: Geography): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q145 (Difficult, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q146 (Easy, Topic: Math): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q147 (Difficult, Topic: Technology): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q148 (Easy, Topic: History): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q149 (Medium, Topic: Technology): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q150 (Easy, Topic: Geography): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q151 (Medium, Topic: Geography): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q152 (Easy, Topic: Technology): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q153 (Difficult, Topic: Science): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q154 (Easy, Topic: Science): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q155 (Difficult, Topic: Math): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q156 (Easy, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q157 (Difficult, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q158 (Difficult, Topic: Technology): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q159 (Easy, Topic: Geography): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q160 (Medium, Topic: Technology): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q161 (Easy, Topic: Geography): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q162 (Difficult, Topic: Geography): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q163 (Medium, Topic: Technology): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q164 (Difficult, Topic: Technology): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q165 (Difficult, Topic: Geography): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q166 (Difficult, Topic: Science): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q167 (Difficult, Topic: Science): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q168 (Difficult, Topic: History): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q169 (Medium, Topic: Math): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q170 (Difficult, Topic: Geography): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q171 (Difficult, Topic: Geography): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q172 (Easy, Topic: Science): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q173 (Medium, Topic: Literature): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q174 (Medium, Topic: History): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q175 (Difficult, Topic: Technology): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q176 (Easy, Topic: Math): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q177 (Easy, Topic: Technology): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q178 (Difficult, Topic: Math): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q179 (Easy, Topic: Technology): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q180 (Easy, Topic: Technology): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q181 (Difficult, Topic: Technology): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q182 (Easy, Topic: Math): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q183 (Difficult, Topic: Math): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q184 (Difficult, Topic: Science): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q185 (Easy, Topic: Literature): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q186 (Easy, Topic: Science): Who wrote 'Romeo and Juliet'?
+A) Shakespeare
+B) Homer
+C) Tolstoy
+D) Dickens
+Answer: A
+
+Q187 (Easy, Topic: Math): In which year did World War II end?
+A) 1945
+B) 1939
+C) 1918
+D) 1965
+Answer: A
+
+Q188 (Easy, Topic: Technology): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q189 (Easy, Topic: Science): What is H2O commonly known as?
+A) Water
+B) Oxygen
+C) Hydrogen
+D) Salt
+Answer: A
+
+Q190 (Medium, Topic: Geography): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q191 (Easy, Topic: Science): What is the square root of 144?
+A) 12
+B) 11
+C) 14
+D) 13
+Answer: A
+
+Q192 (Easy, Topic: Literature): What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Rome
+Answer: A
+
+Q193 (Easy, Topic: History): What is the boiling point of water?
+A) 100°C
+B) 90°C
+C) 80°C
+D) 110°C
+Answer: A
+
+Q194 (Easy, Topic: Math): Which device is used to compute?
+A) Computer
+B) Refrigerator
+C) Television
+D) Microwave
+Answer: A
+
+Q195 (Easy, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q196 (Medium, Topic: Technology): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q197 (Easy, Topic: History): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+
+Q198 (Easy, Topic: Literature): Who discovered gravity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+Answer: A
+
+Q199 (Difficult, Topic: Math): Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Saturn
+Answer: A
+
+Q200 (Difficult, Topic: Geography): What is the largest ocean?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+Answer: A
+

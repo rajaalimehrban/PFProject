@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore all PDF documents
+*.pdf
+
+# Ignore all Word documents
+*.docx
+*.doc
